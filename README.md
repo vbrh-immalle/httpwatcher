@@ -1,3 +1,7 @@
+# this fork
+
+TODO: add `watcher_timeout` command line arg
+
 # httpwatcher
 
 [![Build Status](https://travis-ci.org/thanethomson/httpwatcher.svg?branch=master)](https://travis-ci.org/thanethomson/httpwatcher)
